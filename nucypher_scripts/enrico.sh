@@ -1,0 +1,1 @@
+nucypher enrico run --policy-encrypting-key $1
